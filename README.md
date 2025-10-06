@@ -6,4 +6,4 @@ This project has demonstrated the application of Big Data technologies to a real
 
 The Apache Spark Python code for this project is defined in the `severity_prediction_for_us_traffic_accidents.py` file.
 
-[View SQL Schema File](severity_prediction_for_us_traffic_accidents.py)
+[View Python code File](severity_prediction_for_us_traffic_accidents.py)
